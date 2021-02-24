@@ -9,6 +9,10 @@ public class HelloController {
 		System.out.println("Good Morning");
 	}
 	
+	public void Khema() {
+		System.out.println("Hello");
+	}
+	
 	public void hi() {
 		System.out.println("Hello");
 	}
