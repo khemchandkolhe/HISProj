@@ -13,6 +13,9 @@ public class HelloController {
 	public void Khema() {
 		System.out.println("Hello");
 	}
+	public void m2() {
+		System.out.println();
+	}
 	
 	public void hi() {
 		System.out.println("Hello");
