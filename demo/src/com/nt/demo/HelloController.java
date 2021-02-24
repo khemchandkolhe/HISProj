@@ -11,6 +11,7 @@ public class HelloController {
 	}
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 	
 	
@@ -18,10 +19,14 @@ public class HelloController {
 	
 	public void m3() {
 		System.out.println();
-=======
+}
+	public void pushpak2() {
+		System.out.println("pushpak");
+	}
+
 	public void pushpak() {
 		System.out.println("pushpak");
->>>>>>> stash
+
 	}
 	public void dhanu() {
 		System.out.println("Hello");
