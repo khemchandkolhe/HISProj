@@ -6,11 +6,12 @@ public class Welcome {
 
 		System.out.println("Hi Khemchand");
 	}
+	
+	public void m6() {
+		//dsdsdsds
+	}
 
-	
-	
-	
-	public void m8() {
+public void m8() {
 		
 	}
 }
