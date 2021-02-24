@@ -9,6 +9,15 @@ public class HelloController {
 		System.out.println("Good Morning");
 		System.out.println("Winnnn");
 	}
+	
+	
+	
+	
+	
+	
+	public void m3() {
+		System.out.println();
+	}
 	public void dhanu() {
 		System.out.println("Hello");
 	}
