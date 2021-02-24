@@ -10,6 +10,7 @@ public class HelloController {
 		System.out.println("Winnnn");
 	}
 	
+<<<<<<< HEAD
 	
 	
 	
@@ -17,6 +18,10 @@ public class HelloController {
 	
 	public void m3() {
 		System.out.println();
+=======
+	public void pushpak() {
+		System.out.println("pushpak");
+>>>>>>> stash
 	}
 	public void dhanu() {
 		System.out.println("Hello");
