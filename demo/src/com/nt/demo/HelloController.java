@@ -25,6 +25,12 @@ public class HelloController {
 	public void D() {
 		System.out.println("Hello");
 	}
+	public void E() {
+		System.out.println("Hello");
+	}
+	public void F() {
+		System.out.println("Hello");
+	}
 
 	
 	public void wish() {
