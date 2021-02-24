@@ -10,8 +10,7 @@ public class HelloController {
 		System.out.println("Winnnn");
 	}
 	
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 	
 	
 	

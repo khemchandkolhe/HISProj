@@ -7,4 +7,10 @@ public class Welcome {
 		System.out.println("Hi Khemchand");
 	}
 
+	
+	
+	
+	public void m8() {
+		
+	}
 }
