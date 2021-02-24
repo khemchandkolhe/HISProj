@@ -7,6 +7,7 @@ public class HelloController {
 		System.out.println("Welcome to ashokit");
 
 		System.out.println("Good Morning");
+		System.out.println("Winnnn");
 	}
 	
 	public void hi() {
